@@ -27,10 +27,11 @@ _-Charlize Rosenblad_
   <ol>
       <li><a href="#description-of-the-code">Description of the Code</a></i>
       <ul>
+        <li><a href="#code-for-ball">Code for Ball</a></li>
+        <li><a href="#code-for-bat">Code for Bat</a></li>
         <li><a href="#main-menu">Main Menu</a></li>
         <li><a href="#game-manager">Game Manager</a></li>
-        <li><a href="#ball-movement">Ball Movement</a></li>
-        <li><a href="#bat-movement">Bat Movement</a></li>
+        <li><a href="#volume">Volume</a></li>
       </ul>
     </li>
     <li><a href="#challenging-code">Challenging Code</a></li>
